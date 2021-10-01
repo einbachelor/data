@@ -1,0 +1,14 @@
+{
+    "slug": "sdfsdf",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "sdfsdf",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/einfrank/data/pull/5"
+    ]
+}
