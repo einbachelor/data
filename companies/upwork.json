@@ -4,20 +4,22 @@
         "all"
     ],
     "categories": [
-        "commerce",
         "finance"
     ],
     "name": "Upwork Global Inc.",
-    "address": "441 Logue Ave.\nMountain View\nCA 94043\nUnited States of America",
+    "runs": [
+        "Upwork Escrow Inc.",
+        "Elance, Inc.",
+        "Upwork Talent Group, Inc."
+    ],
+    "address": "655 Montgomery Street Suite 490\nDPT 17022\nSan Francisco, CA 94111-2676\nUnited States of America",
     "phone": "+1 650 316 7500",
-    "fax": "+1 650 316 7501",
     "email": "privacyrequests@upwork.com",
+    "webform": "https://dsar.oncentrl.com/upwork.html?uuid=1313",
     "web": "https://www.upwork.com/",
     "sources": [
         "https://www.upwork.com/legal#privacy",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=101648"
+        "https://github.com/datenanfragen/data/pull/1590"
     ],
-    "suggested-transport-medium": "email",
-    "request-language": "en",
     "quality": "verified"
 }

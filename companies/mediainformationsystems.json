@@ -8,13 +8,16 @@
         "ads"
     ],
     "name": "Media Information Systems Deutschland GmbH",
-    "address": "Bavariaring 16\n80336 München\nDeutschland",
-    "phone": "+49 89 121400858",
+    "address": "Fritz-Kneidl-Str. 5a\n82031 Grünwald\nDeutschland",
+    "phone": "+49 89 54197883",
+    "fax": "+49 89 54197884",
     "email": "datenschutz@mismail.de",
     "web": "https://mediainformationsystems.de",
     "sources": [
         "https://mediainformationsystems.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/851"
+        "https://github.com/datenanfragen/data/pull/851",
+        "https://github.com/datenanfragen/data/pull/1622",
+        "https://github.com/datenanfragen/data/pull/1944"
     ],
     "required-elements": [
         {
@@ -28,7 +31,6 @@
             "optional": false
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

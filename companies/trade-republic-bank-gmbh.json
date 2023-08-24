@@ -1,0 +1,22 @@
+{
+    "slug": "trade-republic-bank-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Trade Republic Bank GmbH",
+    "address": "Köpenicker Straße 40c\n10179 Berlin\nDeutschland",
+    "email": "datenschutz@traderepublic.com",
+    "web": "https://traderepublic.com/",
+    "sources": [
+        "https://traderepublic.com/de-de/privacy",
+        "https://traderepublic.com/de-de/imprint",
+        "https://github.com/datenanfragen/data/pull/1537",
+        "https://assets.traderepublic.com/assets/files/Privacy-Website_de-DE.pdf",
+        "https://github.com/datenanfragen/data/pull/2049"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
