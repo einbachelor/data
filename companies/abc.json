@@ -4,7 +4,7 @@
         "all"
     ],
     "name": "Abc",
-    "address": "Abc\nGermany",
+    "address": "Irgendeine-Straße 1\nGermany",
     "sources": [
         "https://company-json.datenanfragen.de/"
     ],
