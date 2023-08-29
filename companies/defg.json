@@ -1,0 +1,12 @@
+{
+    "slug": "def",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Def",
+    "address": "Irgendeine-Straße 1\nGermany",
+    "sources": [
+        "https://company-json.datenanfragen.de/"
+    ],
+    "quality": "verified"
+}
